@@ -24,3 +24,6 @@ data_frame['Total Deaths'] = pd.to_numeric(total_deaths)
 data_frame['Total Recovered'] = pd.to_numeric(total_recovered)
 data_frame['Active Cases'] = pd.to_numeric(active_cases)
 data_frame['Population'] = pd.to_numeric(population)
+
+# Replace nan values with 0
+data_frame = data_frame.fillna(0)
