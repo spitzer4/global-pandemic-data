@@ -16,9 +16,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Removed commas from data and changed column types to numeric">
+    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Replaced NaN values with 0">
+      <change afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-cleaning.py" beforeDir="false" afterPath="$PROJECT_DIR$/data-cleaning.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -37,6 +38,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="0ab9e734-afdf-456c-8019-36c0e1a625e8">
+    <option name="files">
+      <option value="analysis.ipynb" />
+    </option>
   </component>
   <component name="ProjectId" id="1uRn3rvxdaRxTWdUV7n65ObceMF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -111,7 +117,7 @@
       <updated>1624637072723</updated>
       <workItem from="1624637075472" duration="173000" />
       <workItem from="1624637252334" duration="3507000" />
-      <workItem from="1624642516912" duration="2735000" />
+      <workItem from="1624642516912" duration="3940000" />
     </task>
     <task id="LOCAL-00001" summary="Imported data and removed columns">
       <created>1624642632958</created>
@@ -134,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624645105615</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Replaced NaN values with 0">
+      <created>1624645777340</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1624645777340</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,7 +180,8 @@
     <MESSAGE value="Imported data and removed columns" />
     <MESSAGE value="Changed indexing to be by state" />
     <MESSAGE value="Removed commas from data and changed column types to numeric" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed commas from data and changed column types to numeric" />
+    <MESSAGE value="Replaced NaN values with 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Replaced NaN values with 0" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624642125844">
@@ -178,10 +192,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="554" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1624637494582" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624645114262">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624645792286">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624645114262" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624645792286" />
     <state x="428" y="187" key="editAsTableFormatDialogDimension" timestamp="1624637577447">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
