@@ -16,10 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Replaced NaN values with 0">
-      <change afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Created Jupyter notebook" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -117,7 +114,7 @@
       <updated>1624637072723</updated>
       <workItem from="1624637075472" duration="173000" />
       <workItem from="1624637252334" duration="3507000" />
-      <workItem from="1624642516912" duration="3940000" />
+      <workItem from="1624642516912" duration="4036000" />
     </task>
     <task id="LOCAL-00001" summary="Imported data and removed columns">
       <created>1624642632958</created>
@@ -147,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624645777340</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Created Jupyter notebook">
+      <created>1624647536903</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1624647536903</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,9 +185,14 @@
     <MESSAGE value="Changed indexing to be by state" />
     <MESSAGE value="Removed commas from data and changed column types to numeric" />
     <MESSAGE value="Replaced NaN values with 0" />
-    <option name="LAST_COMMIT_MESSAGE" value="Replaced NaN values with 0" />
+    <MESSAGE value="Created Jupyter notebook" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Jupyter notebook" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="723" y="395" key="#Notifications" timestamp="1624647611523">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="723" y="395" key="#Notifications/0.0.1680.1050@0.0.1680.1050" timestamp="1624647611523" />
     <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624642125844">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -192,10 +201,14 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="554" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1624637494582" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624645792286">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624647545613">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624645792286" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624647545613" />
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624647582126">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624647582126" />
     <state x="428" y="187" key="editAsTableFormatDialogDimension" timestamp="1624637577447">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
