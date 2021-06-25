@@ -16,7 +16,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Created Jupyter notebook">
+    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Created new columns to calculate COVID proportions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/analysis.ipynb" afterDir="false" />
     </list>
@@ -39,11 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JupyterTrust" id="0ab9e734-afdf-456c-8019-36c0e1a625e8">
-    <option name="files">
-      <option value="usa-covid19-analysis.ipynb" />
-    </option>
-  </component>
+  <component name="JupyterTrust" id="0ab9e734-afdf-456c-8019-36c0e1a625e8" />
   <component name="ProjectId" id="1uRn3rvxdaRxTWdUV7n65ObceMF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -68,6 +64,9 @@
       <module name="usa-covid-data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -118,7 +117,8 @@
       <updated>1624637072723</updated>
       <workItem from="1624637075472" duration="173000" />
       <workItem from="1624637252334" duration="3507000" />
-      <workItem from="1624642516912" duration="4956000" />
+      <workItem from="1624642516912" duration="5496000" />
+      <workItem from="1624650143369" duration="17000" />
     </task>
     <task id="LOCAL-00001" summary="Imported data and removed columns">
       <created>1624642632958</created>
@@ -162,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624647625696</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Created new columns to calculate COVID proportions">
+      <created>1624648619287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624648619287</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +197,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Imported data and removed columns" />
@@ -197,7 +205,8 @@
     <MESSAGE value="Removed commas from data and changed column types to numeric" />
     <MESSAGE value="Replaced NaN values with 0" />
     <MESSAGE value="Created Jupyter notebook" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Jupyter notebook" />
+    <MESSAGE value="Created new columns to calculate COVID proportions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created new columns to calculate COVID proportions" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="395" key="#Notifications" timestamp="1624647611523">
@@ -232,10 +241,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1624647811588" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624647648590">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624648631815">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624647648590" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624648631815" />
     <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624647582126">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
