@@ -16,7 +16,8 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Added swine flu dataset">
+    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Added swine flu dataset to README.md">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,7 +118,7 @@
       <workItem from="1624637075472" duration="173000" />
       <workItem from="1624637252334" duration="3507000" />
       <workItem from="1624642516912" duration="5496000" />
-      <workItem from="1624650143369" duration="2123000" />
+      <workItem from="1624650143369" duration="2257000" />
     </task>
     <task id="LOCAL-00001" summary="Imported data and removed columns">
       <created>1624642632958</created>
@@ -189,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624654660262</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added swine flu dataset to README.md">
+      <created>1624654821318</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1624654821318</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,7 +237,8 @@
     <MESSAGE value="Added description of data cleaning" />
     <MESSAGE value="Created bar plots to display states with highest and lowest proportion of COVID-19 cases" />
     <MESSAGE value="Added swine flu dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added swine flu dataset" />
+    <MESSAGE value="Added swine flu dataset to README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added swine flu dataset to README.md" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="395" key="#Notifications" timestamp="1624647611523">
@@ -264,10 +273,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1624647811588" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624654668449">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624654833199">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624654668449" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624654833199" />
     <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624647582126">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
