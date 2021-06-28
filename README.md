@@ -1,9 +1,12 @@
 ## USA COVID-19 Rates by State ##
 **Datasets from Kaggle:**
-- [**USA Statewise Latest Covid-19 Data**
-*Statewise Covid-19 data USA as on 14 June 2021*](https://www.kaggle.com/anandhuh/usa-statewise-latest-covid19-data)
-
 - [**H1N1 | 2009 | Swine Flu Pandemic**
-*Day by day country wise no. of cases & deaths from 4th April to 6th July 2009*](https://www.kaggle.com/imdevskp/h1n1-swine-flu-2009-pandemic-dataset?select=summary_usa.csv)
+*Day by day country wise no. of cases & deaths from 4th April to 6th July 2009*](https://www.kaggle.com/imdevskp/h1n1-swine-flu-2009-pandemic-dataset)
 
-Guiding Question: *Which states are seeing the highest proportion of COVID-19 cases?*
+- [**COVID-19 Dataset**
+*Number of Confirmed, Death and Recovered cases every day across the globe*](https://www.kaggle.com/imdevskp/corona-virus-report)
+
+- [**SARS 2003 Outbreak Dataset**
+*Data on number of cases, deaths and recovered from across the globe*](https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset)
+
+Guiding Question: *Around the world, how do the death rates of past pandemics compare to that of the COVID-19 pandemic?*
