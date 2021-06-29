@@ -16,10 +16,10 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Cleaned COVID data">
-      <change afterPath="$PROJECT_DIR$/data/2009-population-by-country.csv" afterDir="false" />
+    <list default="true" id="f74af1de-2d5c-455d-994a-ca36d0068fce" name="Default Changelist" comment="Imported 2009 global population data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/2009-population-by-country.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/2009-population-by-country.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +76,6 @@
       <module name="pandemic-data" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="/usr/local/bin/python3.8" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
@@ -134,7 +131,8 @@
       <workItem from="1624885213840" duration="1404000" />
       <workItem from="1624887976258" duration="1886000" />
       <workItem from="1624891744085" duration="1234000" />
-      <workItem from="1624920556160" duration="317000" />
+      <workItem from="1624920556160" duration="560000" />
+      <workItem from="1624997190252" duration="3860000" />
     </task>
     <task id="LOCAL-00001" summary="Imported data and removed columns">
       <created>1624642632958</created>
@@ -227,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624891968786</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Imported 2009 global population data">
+      <created>1624925647105</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1624925647106</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,7 +276,8 @@
     <MESSAGE value="Added swine flu dataset to README.md" />
     <MESSAGE value="Created list of datasets" />
     <MESSAGE value="Cleaned COVID data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cleaned COVID data" />
+    <MESSAGE value="Imported 2009 global population data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Imported 2009 global population data" />
   </component>
   <component name="WindowStateProjectService">
     <state x="723" y="395" key="#Notifications" timestamp="1624647611523">
@@ -310,18 +316,18 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1624647811588" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624891977558">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1624925654240">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624891977558" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624925654240" />
     <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624647582126">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="628" y="446" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1624647582126" />
-    <state x="428" y="187" key="editAsTableFormatDialogDimension" timestamp="1624885814312">
+    <state x="428" y="187" key="editAsTableFormatDialogDimension" timestamp="1624999520413">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="428" y="187" key="editAsTableFormatDialogDimension/0.0.1680.1050@0.0.1680.1050" timestamp="1624885814312" />
+    <state x="428" y="187" key="editAsTableFormatDialogDimension/0.0.1680.1050@0.0.1680.1050" timestamp="1624999520413" />
     <state x="598" y="393" key="git4idea.rebase.GitRebaseDialog" timestamp="1624643668074">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
